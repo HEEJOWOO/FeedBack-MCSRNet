@@ -8,7 +8,7 @@
 ![image](https://user-images.githubusercontent.com/61686244/140008138-02bbb0ab-a739-45a7-b2aa-f55b7421cd5e.png)
 
 ### Experiment Result
-* PSNR, SSIM for Test Set
+* PSNR for Test Set
 
 
 |Dataset|Scale|SRCNN|RDN|RCAN|CARN|CBPN|OURS|
