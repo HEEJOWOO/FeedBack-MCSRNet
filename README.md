@@ -25,5 +25,5 @@
 
 ### Network Architecture
 
-![image](https://user-images.githubusercontent.com/61686244/140008136-ab7d5b7d-6a5c-44d2-a2c0-581a13b6e009.png)
+![0_2page](https://user-images.githubusercontent.com/61686244/129152667-385afc5f-17dd-439b-a972-95af90b3ce85.png)
 ![image](https://user-images.githubusercontent.com/61686244/140008138-02bbb0ab-a739-45a7-b2aa-f55b7421cd5e.png)
