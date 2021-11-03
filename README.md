@@ -1,4 +1,4 @@
-# Multi-Connection Super Resolution Network
+# Multi-Connection Feed Back Super Resolution Network
 
 |Dataset|Scale|SRCNN|RDN|RCAN|CARN|CBPN|OURS|
 |-------|-----|-----|---|----|----|----|----|
