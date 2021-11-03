@@ -1,4 +1,4 @@
-# Multi-Connection Feed Back Super Resolution Network
+# FeedBack Multi-Connection  Super Resolution Network
 
 |Dataset|Scale|SRCNN|RDN|RCAN|CARN|CBPN|OURS|
 |-------|-----|-----|---|----|----|----|----|
@@ -23,4 +23,7 @@
 |Multi-Adds(G)|52.7|1,309|919.9|90.9|97.9|1,188|
 
 
+### Network Architecture
 
+![image](https://user-images.githubusercontent.com/61686244/140008136-ab7d5b7d-6a5c-44d2-a2c0-581a13b6e009.png)
+![image](https://user-images.githubusercontent.com/61686244/140008138-02bbb0ab-a739-45a7-b2aa-f55b7421cd5e.png)
