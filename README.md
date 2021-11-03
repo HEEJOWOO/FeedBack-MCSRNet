@@ -1,5 +1,13 @@
 # FeedBack Multi-Connection  Super Resolution Network
 
+
+
+### Network Architecture
+
+![0_2page](https://user-images.githubusercontent.com/61686244/129152667-385afc5f-17dd-439b-a972-95af90b3ce85.png)
+![image](https://user-images.githubusercontent.com/61686244/140008138-02bbb0ab-a739-45a7-b2aa-f55b7421cd5e.png)
+
+
 |Dataset|Scale|SRCNN|RDN|RCAN|CARN|CBPN|OURS|
 |-------|-----|-----|---|----|----|----|----|
 |Set5(PSNR)|x2|36.66|38.24|38.27|37.76|37.90|38.22|
@@ -23,7 +31,3 @@
 |Multi-Adds(G)|52.7|1,309|919.9|90.9|97.9|1,188|
 
 
-### Network Architecture
-
-![0_2page](https://user-images.githubusercontent.com/61686244/129152667-385afc5f-17dd-439b-a972-95af90b3ce85.png)
-![image](https://user-images.githubusercontent.com/61686244/140008138-02bbb0ab-a739-45a7-b2aa-f55b7421cd5e.png)
