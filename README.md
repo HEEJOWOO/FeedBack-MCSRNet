@@ -10,7 +10,7 @@
 ### Docker
 <pre>
 <code>
-$ sudo docker pull heejowoo/feedback_mcsrnet:ver0.1
+$ sudo docker pull heejowoo/feedback_mc_srnet:v0.2
 </code>
 </pre>
 
