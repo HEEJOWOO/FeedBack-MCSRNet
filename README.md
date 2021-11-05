@@ -68,9 +68,9 @@ workspace
 
  ### Params & Multi-Adds
 
-|x4|SRCNN|RDN|RCAN|CARN|CBPN|OURS|
+|x4|SRCNN|EDSR|RDN|RCAN|CARN|CBPN|OURS|
 |--|-----|---|----|----|----|----|
-|Parameter(M)|0.057|22|16|1.5|1.1|2.28|
+|Parameter(M)|0.057|44|22|16|1.5|1.1|2.28|
 |Multi-Adds(G)|52.7|1,309|919.9|90.9|97.9|1,188|
 
 
