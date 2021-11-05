@@ -74,4 +74,5 @@ workspace
 |Multi-Adds(G)|52.7|-|1,309|919.9|90.9|97.9|1,188|
 
  ### Qualitative comparison(Super Resolution)
+ 
 ![ezgif com-gif-maker (7)](https://user-images.githubusercontent.com/61686244/140537446-53a8a121-e6e1-4e3d-8cbd-edeae2b40676.gif)
