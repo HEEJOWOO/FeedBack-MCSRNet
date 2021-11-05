@@ -14,6 +14,7 @@ if __name__ == '__main__':
     parser.add_argument('--B', type=int, default=1)
     parser.add_argument('--U', type=int, default=9)
     parser.add_argument('--weights-file', type=str, required=True)
+    parser.add_argument('--image-file', type=str, required=True)
     parser.add_argument('--scale', type=int, default=4)
     parser.add_argument('--num-features', type=int, default=64)
     parser.add_argument('--growth-rate', type=int, default=64)
