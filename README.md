@@ -73,6 +73,18 @@ workspace
 |Parameter(M)|0.057|44|22|16|1.5|1.1|2.28|
 |Multi-Adds(G)|52.7|-|1,309|919.9|90.9|97.9|1,188|
 
- ### Qualitative comparison(Super Resolution)
+ ### Qualitative comparison
+  * Super Resolution
  
 ![ezgif com-gif-maker (7)](https://user-images.githubusercontent.com/61686244/140537446-53a8a121-e6e1-4e3d-8cbd-edeae2b40676.gif)
+
+  * VideoSR x2 + Denoising
+    * Noise Level : 10
+
+![ezgif com-gif-maker (9)](https://user-images.githubusercontent.com/61686244/141049641-a94a11dd-0214-4621-b818-3942a110df7d.gif)
+
+  * VideoSR + Denoising + Detect(YOLOv5)
+    * Noise Level : 10
+
+
+![ezgif com-gif-maker (8)](https://user-images.githubusercontent.com/61686244/141049212-aed78ca6-5a78-4e8e-a30c-4c34e24c3754.gif)
