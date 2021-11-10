@@ -82,6 +82,6 @@ workspace
 
 ![ezgif com-gif-maker (9)](https://user-images.githubusercontent.com/61686244/141049641-a94a11dd-0214-4621-b818-3942a110df7d.gif)
 
-  * VideoSR(x2) + Denoising(Noise Level : 10) + Detect(YOLOv5)
+  * Left : bicubic, Right : VideoSR(x2) + Denoising(Noise Level : 10) + Detect(YOLOv5)
     
 ![ezgif com-gif-maker (8)](https://user-images.githubusercontent.com/61686244/141049212-aed78ca6-5a78-4e8e-a30c-4c34e24c3754.gif)
